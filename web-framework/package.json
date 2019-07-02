@@ -1,0 +1,18 @@
+{
+  "name": "web-framework",
+  "version": "1.0.0",
+  "description": "We can extend Express with custom request and response middleware.",
+  "main": "server.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cookieparser": "^0.1.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
